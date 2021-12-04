@@ -1,0 +1,26 @@
+.Heading_setting {
+  font-size: 25px;
+  font-weight: 600;
+}
+.heading_content {
+  font-size: 17px;
+  color: gray;
+}
+.heading_content2 {
+  font-size: 25px;
+  color: gray;
+}
+.starttrailbtn {
+  background-color: #fa5e4f !important;
+  color: #fff !important;
+  display: inline-block;
+  font-size: 16px;
+  padding: 8px 25px;
+  text-align: center;
+  text-transform: capitalize !important;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 25px !important;
+  outline: none !important;
+  text-decoration: none !important;
+}

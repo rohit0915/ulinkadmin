@@ -1,0 +1,28 @@
+.profile_Edit {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.profile_input #input[type="file"] {
+  display: none;
+}
+
+.resumeview_image_upload {
+  margin: auto;
+  color: gray;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.profile_title_heading {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.title_formating {
+  font-size: 15px;
+  color: gray;
+}

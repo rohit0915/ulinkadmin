@@ -1,0 +1,20 @@
+.styles_image {
+  background-color: lightgray;
+}
+.Style_heading {
+  font-size: 18px;
+  font-weight: 700;
+}
+.Style_para {
+  font-size: 15px;
+  color: gray;
+}
+.Site_details_Editor {
+  border-color: silver;
+}
+
+.Site_details_Editor .RichTextEditor__editor___1QqIU {
+  cursor: text;
+  font-size: 16px;
+  height: 30vh !important;
+}

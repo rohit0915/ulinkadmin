@@ -1,0 +1,54 @@
+.card_shadow {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
+}
+.admin_card {
+  width: 40% !important;
+  height: auto !important;
+  margin-top: 10% !important;
+  margin: auto !important;
+  padding-top: 10% !important;
+}
+.email_field {
+  width: 92% !important;
+}
+.login_btn {
+  padding: 10px 30px !important;
+  background-color: #8989 !important;
+  color: #fff !important;
+
+  background-color: rgba(90, 187, 211, 0.6) !important;
+  outline: none !important;
+}
+.login_btn:hover {
+  box-shadow: 0px 0px 1px 1px #d8e1df !important;
+  color: #fff !important;
+}
+.forgot_pass {
+  color: rgb(80, 150, 197) !important;
+  font-size: 14px;
+}
+.forgot_pass:hover {
+  color: rgb(219, 16, 16) !important;
+}
+@media only screen and (max-width: 600px) {
+  .admin_card {
+    width: 80% !important;
+    height: auto !important;
+    margin-top: 10% !important;
+    margin: auto !important;
+    padding-top: 20% !important;
+  }
+  .font_change {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .admin_card {
+    width: 80% !important;
+    height: auto !important;
+    margin-top: 10% !important;
+    margin: auto !important;
+    padding-top: 20% !important;
+  }
+}

@@ -1,0 +1,70 @@
+.login_page_heading {
+  font-size: 30px;
+  font-weight: 600;
+}
+.Login_Main_div {
+  text-align: center !important;
+  width: 400px;
+  margin: auto;
+}
+.form_width {
+  height: auto !important;
+  width: 400px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.main_padding_top_bottom {
+  padding-top: 2%;
+  padding-bottom: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.Login_page_button {
+  width: 100%;
+  background-color: #50d3cb !important;
+  color: #000 !important;
+  display: inline-block;
+  font-size: 16px;
+  padding: 8px 25px;
+  text-align: center;
+  text-transform: capitalize !important;
+  cursor: pointer;
+  border: 1px solid transparent;
+  outline: none !important;
+  text-decoration: none !important;
+}
+
+.Login_in {
+  color: #50d3cb;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+
+.MuiCard-root {
+  overflow: visible !important;
+}
+
+.login_content{
+  font-size: 12px;
+  color: gray;
+}
+.link_terms{
+  color: #50d3cb;
+  cursor: pointer;
+}
+@media only screen and (min-width: 320px) and (max-width: 600px) {
+  .Login_Main_div {
+    text-align: center !important;
+    width: 350px;
+    margin: auto;
+  }
+  .form_width {
+    height: auto !important;
+    width: 350px;
+    border-radius: 8px;
+    margin-top: 30px;
+  }
+}

@@ -1,0 +1,56 @@
+.blog_image {
+  height: 400px;
+  width: 100%;
+}
+.blog_link {
+  text-transform: capitalize !important;
+  color: #000 !important;
+  border-radius: 25px !important;
+  line-height: 22px !important;
+  font-size: 15px !important;
+  outline: none !important;
+  background-color: #fff !important;
+}
+.cardheight_overflow {
+  height: 500px;
+  overflow-y: scroll;
+}
+
+.trending_text {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 700;
+}
+.treanding_post {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.trending_heading {
+  color: gray;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.subcontent_social {
+  color: #fff;
+}
+.social_media_image {
+  height: 200px;
+  width: 200px;
+}
+.socail_media_heading {
+  color: #fff !important;
+  font-size: 20px;
+}
+.horizontal_line {
+  width: 100% !important;
+  height: 1px !important;
+  background-color: #fff !important;
+}
+
+.cardheight_overflow1 {
+    height: 1000px;
+    overflow-y: scroll;
+  }

@@ -1,0 +1,28 @@
+.EditProfile_heading {
+  font-size: 16px;
+  font-weight: 600;
+  color: gray;
+}
+
+.EditPrfileBtn {
+  background-color: gray !important;
+  width: 100% !important;
+  color: #fff !important;
+  outline: none !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  font-weight: 600 !important;
+}
+
+.button_formatting {
+  background-color: #50d3cb !important;
+  color: #000 !important;
+  display: inline-block;
+  font-size: 16px;
+  padding: 8px 25px;
+  text-align: center;
+  text-transform: capitalize !important;
+  cursor: pointer;
+  border: 1px solid transparent;
+  outline: none !important;
+  text-decoration: none !important;
+}
