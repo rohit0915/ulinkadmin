@@ -3,13 +3,16 @@ import HOC3 from "../../../Common/HOC3";
 import { withRouter } from "react-router-dom";
 import { Card, Grid } from "@material-ui/core";
 
+import "./AdminHome.css";
+
 const AdminHome = (props) => {
   //local array
   const home = [
     { show: "User Detail", link: "UesrDetail" },
-    { show: "Add New Plan", link: "NewPlan" },
-    { show: "Blog", link: "adminblog" },
-    { show: "Add packages", link: "addPackages" },
+    // { show: "Add New Plan", link: "NewPlan" },
+    { show: "Add Blog", link: "adminblog" },
+    // { show: "Add packages", link: "addPackages" },
+    { show: "Add Payment", link: "payment" },
   ];
   return (
     <div>

@@ -5,7 +5,8 @@ import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
 
 //css file
-import "../../Component/AdminPanel/AdminHome/AdminHome.css";
+// import "../../Component/AdminPanel/AdminHome/AdminHome.css";
+import "../Header/Header.css";
 
 //logo
 import logo from "./logo.png";
